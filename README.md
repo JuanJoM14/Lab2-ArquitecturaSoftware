@@ -1,5 +1,23 @@
 [![CI/CD Pipeline](https://github.com/JuanJoM14/Lab2-ArquitecturaSoftware/actions/workflows/build.yml/badge.svg)](https://github.com/JuanJoM14/Lab2-ArquitecturaSoftware/actions/workflows/build.yml)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JuanJoM14_Lab2-ArquitecturaSoftware&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=JuanJoM14_Lab2-ArquitecturaSoftware)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=JuanJoM14_Lab2-ArquitecturaSoftware&metric=bugs)](https://sonarcloud.io/summary/new_code?id=JuanJoM14_Lab2-ArquitecturaSoftware)
+
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=JuanJoM14_Lab2-ArquitecturaSoftware&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=JuanJoM14_Lab2-ArquitecturaSoftware)
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=JuanJoM14_Lab2-ArquitecturaSoftware&metric=coverage)](https://sonarcloud.io/summary/new_code?id=JuanJoM14_Lab2-ArquitecturaSoftware)
+
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=JuanJoM14_Lab2-ArquitecturaSoftware&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=JuanJoM14_Lab2-ArquitecturaSoftware)
+
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=JuanJoM14_Lab2-ArquitecturaSoftware&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=JuanJoM14_Lab2-ArquitecturaSoftware)
+
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=JuanJoM14_Lab2-ArquitecturaSoftware&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=JuanJoM14_Lab2-ArquitecturaSoftware)
+
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=JuanJoM14_Lab2-ArquitecturaSoftware&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=JuanJoM14_Lab2-ArquitecturaSoftware)
+
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=JuanJoM14_Lab2-ArquitecturaSoftware&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=JuanJoM14_Lab2-ArquitecturaSoftware)
+
 Implementation of a Simple App with the next operations:
 
 * Get random nations
